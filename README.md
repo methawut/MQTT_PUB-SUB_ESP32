@@ -1,2 +1,2 @@
-# MQTT_PUB-SUB_ESP32(arduinoIDE)
+# MQTT_PUB-SUB_ESP32(ArduinoIDE)
 PUB&amp;SUB ESP32 2board with MQTT
